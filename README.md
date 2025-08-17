@@ -2,9 +2,9 @@
 FULL-STACK BANKING APP
 
 💼 FEATURES
-> MANAGE ACCOUNTS
-> RECORD TRANSACTIONS (deposits, transfers, lifecycle events)
-> ACTIVITY DASHBOARD
+ MANAGE ACCOUNTS
+ RECORD TRANSACTIONS (deposits, transfers, lifecycle events)
+ ACTIVITY DASHBOARD
 
 ⚖️ LICENSE: MIT
 
