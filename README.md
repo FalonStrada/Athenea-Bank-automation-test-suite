@@ -1,12 +1,10 @@
-✨ Redux Athena Bank ✨
+✨ REDUX ATHENA BANK ✨
 FULL-STACK BANKING APP
 
-💼 FEATURES:
-
-MANAGE ACCOUNTS
-
-RECORD TRANSACTIONS (deposits, transfers, account lifecycle events)
-
-ACTIVITY DASHBOARD
+💼 FEATURES
+> MANAGE ACCOUNTS
+> RECORD TRANSACTIONS (deposits, transfers, lifecycle events)
+> ACTIVITY DASHBOARD
 
 ⚖️ LICENSE: MIT
+
